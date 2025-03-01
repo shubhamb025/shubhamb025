@@ -16,9 +16,6 @@
 - **Tools:** Git, VS Code
 - **Databases:** MySQL
 
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
 ## 🎯 Current Goals
 - 📖 Learning advanced AI & ML concepts
 - 🏆 Contributing to open source projects
