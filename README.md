@@ -1,16 +1,27 @@
 ## Hi there 👋
+# Hi there, I'm [Your Name] 👋
 
-<!--
-**shubhamb025/shubhamb025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Engineering student specializing in Computer Engineering
+- 💡 Passionate about AI, ML, and software development
+- 🔧 Love working with Python and Javascript
 
-Here are some ideas to get you started:
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/your-username)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Python, JavaScript
+- **Frameworks:** React, Node.js
+- **Tools:** Git, VS Code
+- **Databases:** MySQL
+
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+## 🎯 Current Goals
+- 📖 Learning advanced AI & ML concepts
+- 🏆 Contributing to open source projects
+
+
+
